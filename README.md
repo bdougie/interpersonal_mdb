@@ -1,7 +1,7 @@
 # IMDB Rails API
 
 This is a api for for the imdb that will eventually find the degree of
-separation of a particualr actor is from Kevin Bacon.:w
+separation of a particualr actor is from Kevin Bacon.
 
 ## TODO:
 - Write Test
